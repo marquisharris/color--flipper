@@ -1,2 +1,2 @@
-# color--flipper
+# color-flipper
 this is my first color-picker
